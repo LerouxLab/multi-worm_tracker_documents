@@ -25,4 +25,4 @@ In the [protocols](protocols) directory there are the following documents:
 
 2. Cold Spring Harbour protocol for tracking worms on food by [Yemini et al., 2015](http://cshprotocols.cshlp.org/content/2011/12/pdb.prot067025.full)
 
-3. Review about available worm trackers by [Husson et al.,](http://www.wormbook.org/chapters/www_tracking/tracking.html) (includes a section on the Multi-Worm Tracker)
+3. Review about available worm trackers by [Husson et al., 2012](http://www.wormbook.org/chapters/www_tracking/tracking.html) (includes a section on the Multi-Worm Tracker)
